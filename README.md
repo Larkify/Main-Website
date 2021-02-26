@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/larkify/">
-    <img src="https://img.shields.io/badge/version-3.0-blue"
+    <img src="https://img.shields.io/badge/version-3.0.0-blue"
          alt="Version">
   </a>
   <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
