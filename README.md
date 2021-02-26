@@ -10,9 +10,9 @@
 <h4 align="center">A website originally built in Flask, viewable <a href="http://larkx.xyz/" target="_blank">here</a>.</h4>
 
 <p align="center">
-  <a href="https://badge.fury.io/js/electron-markdownify">
-    <img src="https://badge.fury.io/js/electron-markdownify.svg"
-         alt="Gitter">
+  <a href="https://github.com/larkify/">
+    <img src="https://img.shields.io/badge/version-3.0-blue"
+         alt="Version">
   </a>
   <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
   <a href="https://saythanks.io/to/amitmerchant1990">
