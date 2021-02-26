@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://larkx.xyz/"><img src="https://media.discordapp.net/attachments/809522005832630279/814990067566641214/larkpcz.png" alt="larkx.xyz" width="200"></a>
+  <a href="https://larkx.xyz/"><img src="https://cdn.discordapp.com/attachments/705020851606519919/811074089463578644/ICO_2.png" alt="larkx.xyz" width="200"></a>
   <br>
   larkx.xyz
   <br>
