@@ -14,10 +14,9 @@
     <img src="https://img.shields.io/badge/version-3.0-blue?style=for-the-badge&logo=appveyor"
          alt="Version">
   </a>
-  <a href="https://github.com/larkify/">
-    <img src="https://img.shields.io/badge/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fshields.io
-"
-         alt="Version">
+  <a href="https://larkx.xyz/">
+    <img src="https://img.shields.io/website?down_color=red&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Flarkx.xyz%2F"
+         alt="Status">
   </a>
 </p>
 
